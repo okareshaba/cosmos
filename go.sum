@@ -209,8 +209,9 @@ github.com/coinbase/rosetta-sdk-go v0.6.10 h1:rgHD/nHjxLh0lMEdfGDqpTtlvtSBwULqrr
 github.com/coinbase/rosetta-sdk-go v0.6.10/go.mod h1:J/JFMsfcePrjJZkwQFLh+hJErkAmdm9Iyy3D5Y0LfXo=
 github.com/confio/ics23/go v0.0.0-20200817220745-f173e6211efb/go.mod h1:E45NqnlpxGnpfTWL/xauN7MRwEE28T4Dd4uraToOaKg=
 github.com/confio/ics23/go v0.6.3/go.mod h1:E45NqnlpxGnpfTWL/xauN7MRwEE28T4Dd4uraToOaKg=
-github.com/confio/ics23/go v0.6.6 h1:pkOy18YxxJ/r0XFDCnrl4Bjv6h4LkBSpLS6F38mrKL8=
 github.com/confio/ics23/go v0.6.6/go.mod h1:E45NqnlpxGnpfTWL/xauN7MRwEE28T4Dd4uraToOaKg=
+github.com/confio/ics23/go v0.7.0 h1:00d2kukk7sPoHWL4zZBZwzxnpA2pec1NPdwbSokJ5w8=
+github.com/confio/ics23/go v0.7.0/go.mod h1:E45NqnlpxGnpfTWL/xauN7MRwEE28T4Dd4uraToOaKg=
 github.com/containerd/console v1.0.2/go.mod h1:ytZPjGgY2oeTkAONYafi2kSj0aYggsf8acV1PGKCbzQ=
 github.com/containerd/continuity v0.0.0-20190827140505-75bee3e2ccb6/go.mod h1:GL3xCUCBDV3CZiTSEKksMWbLE66hEyuu9qyDOOqM47Y=
 github.com/containerd/continuity v0.1.0 h1:UFRRY5JemiAhPZrr/uE0n8fMTLcZsUvySPr1+D7pgr8=
@@ -238,8 +239,8 @@ github.com/cosmos/iavl v0.15.3/go.mod h1:OLjQiAQ4fGD2KDZooyJG9yz+p2ao2IAYSbke8mV
 github.com/cosmos/iavl v0.17.1 h1:b/Cl8h1PRMvsu24+TYNlKchIu7W6tmxIBGe6E9u2Ybw=
 github.com/cosmos/iavl v0.17.1/go.mod h1:7aisPZK8yCpQdy3PMvKeO+bhq1NwDjUwjzxwwROUxFk=
 github.com/cosmos/ibc-go/v2 v2.0.0/go.mod h1:n53VhNSUxCtMLysvgyNhwrGHL8OW+318LMjtSmaVe9Q=
-github.com/cosmos/ibc-go/v2 v2.0.2 h1:y7eUgggMEVe43wHLw9XrGbeaTWtfkJYMoL3m6YW4fIY=
-github.com/cosmos/ibc-go/v2 v2.0.2/go.mod h1:XUmW7wmubCRhIEAGtMGS+5IjiSSmcAwihoN/yPGd6Kk=
+github.com/cosmos/ibc-go/v2 v2.2.0 h1:nqpvElI9ku5oQZtKvLerhZ/UXH7QoL44VBTWwZkS4C8=
+github.com/cosmos/ibc-go/v2 v2.2.0/go.mod h1:rAHRlBcRiHPP/JszN+08SJx3pegww9bcVncIb9QLx7I=
 github.com/cosmos/ledger-cosmos-go v0.11.1 h1:9JIYsGnXP613pb2vPjFeMMjBI5lEDsEaF6oYorTy6J4=
 github.com/cosmos/ledger-cosmos-go v0.11.1/go.mod h1:J8//BsAGTo3OC/vDLjMRFLW6q0WAaXvHnVc7ZmE8iUY=
 github.com/cosmos/ledger-go v0.9.2 h1:Nnao/dLwaVTk1Q5U9THldpUMMXU94BOTWPddSmVB6pI=
